@@ -1,5 +1,5 @@
 program to find whether an array is subset of another array with multiple solutions.
-
+-------------------------------------------------------------------------------------------
 method1.py -
 Use two loops: The outer loop picks all the elements of arr2 one by one.
 The inner loop linearly searches for the element picked by the outer loop.
